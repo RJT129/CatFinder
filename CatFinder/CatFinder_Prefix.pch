@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CatFinder' target in the 'CatFinder' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
